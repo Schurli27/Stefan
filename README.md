@@ -2,5 +2,6 @@
 
 create horse implementation
 
+delete horse
 
-delete
+
